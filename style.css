@@ -278,8 +278,7 @@ nav ul li a {
     }
 }
 
-@media only screen and (max-width: 320px) {
-
+@media (max-width: 350px){
     .main-text h1{
         margin: 5px;
         color: #ffb338;
@@ -290,7 +289,6 @@ nav ul li a {
         margin: 6px 0 10px;
         text-shadow: 2px 2px #f3f4f6;
     }
-
 }
 
 .search-box {
